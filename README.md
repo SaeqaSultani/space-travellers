@@ -2,6 +2,8 @@
 
 This web application is built upon real live data from the SpaceX API. The main purpose is to build a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
 
+![space travele](https://user-images.githubusercontent.com/74806645/198382971-f7b25739-2b51-4586-a23f-549208eeba15.png)
+
 # Built With
 
 - React Js
